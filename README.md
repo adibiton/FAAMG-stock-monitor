@@ -32,4 +32,5 @@ Runs app tests
 * UA compatibility
 * Documentation
 * Manage state (redux?)
+* alphaavantage api (free tier) allows only up to 5 API requests per minute - meaning functionality is not the best...  
 * Backend api service - (hiding alphavantage API key)
